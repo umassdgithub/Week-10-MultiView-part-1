@@ -1,4 +1,4 @@
-# Exercise
+# Exercise - in Class Activity 4
 
 ## Use the <i>scatter_plot</i> function in the Single_View and Two_View examples 
 
