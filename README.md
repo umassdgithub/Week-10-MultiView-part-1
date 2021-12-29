@@ -1,4 +1,4 @@
-# Exercise - in Class Activity 4
+# Exercise
 
 ## Use the <i>scatter_plot</i> function in the Single_View and Two_View examples 
 
@@ -8,6 +8,5 @@
 5. The final result should look like the sample file
 6. <b>Make a webpage on GitHub and submit the link in myCourses.</b>
 
-<img src="https://raw.githubusercontent.com/umassdgithub/Fall2021-Week10-MultiView-part-1/main/Four_View/Scatter_4View.png?token=AQZIPUZ2NJMVGGH67VTJZDTBQKRCK"/>
 
  
